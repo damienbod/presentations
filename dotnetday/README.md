@@ -4,7 +4,7 @@
 
 http://dotnetday.ch/
 
-Examples https://github/damienbod/AspNetCoreLogging
+Examples https://github.com/damienbod/presentations/tree/master/dotnetday/examples
 
 Microsoft https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging
 
