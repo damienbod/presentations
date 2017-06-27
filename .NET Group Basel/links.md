@@ -14,6 +14,14 @@ https://github.com/damienbod/AspNetCoreMvcAngular
 
 https://www.npmjs.com/package/angular-auth-oidc-client
 
+# Blog
+
+https://damienbod.com/
+
+# swiss angular
+
+https://swissangular.com/
+
 # Other Links 
 
 http://openid.net
