@@ -1,7 +1,0 @@
-*bin*
-*obj*
-examples/.vs
-examples/Logs/
-examples/AspNetCoreLogging/AspNetCoreLogging.csproj.user
-examples/Serilog/AspNetCoreResourceServer/AspNetCoreResourceServer.csproj.user
-examples/AspNetCoreLogging/Properties/PublishProfiles/AspNetCoreLogging20170423083509 - Web Deploy.pubxml.user
